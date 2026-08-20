@@ -11,7 +11,7 @@
 
 /* Import Section
 =================================================================== */
-@import url("jquery-ui-1.8.21.custom.css");								/* jQuery User Interface Framework Styles */
+@import url("https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.css");								/* jQuery User Interface Framework Styles */
 @import url("fullcalendar.css");										/* Calendars Styles */
 @import url("chosen.css");												/* Select Boxes Styles */  
 @import url("uniform.default.css");										/* Uniform Styles */
