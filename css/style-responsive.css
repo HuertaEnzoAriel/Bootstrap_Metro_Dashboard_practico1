@@ -191,12 +191,12 @@
 		margin-left: 0px !important;
 	}
 	
-	.btn-navbar {
+	.navbar-toggle {
 		display: none !important;
 	}
 	
-	.nav-collapse,
-  	.nav-collapse.collapse {
+	.navbar-collapse,
+  	.navbar-collapse.collapse {
     	height: auto !important;
     	overflow: visible !important;
 		margin-left: 0px !important;
